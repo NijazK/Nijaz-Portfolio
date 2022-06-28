@@ -1,2 +1,2 @@
 # NijazK.github.io
-Welcom
+Welcome
